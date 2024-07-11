@@ -17,7 +17,7 @@ We are a group of passionate developers committed to continuous learning and imp
 ### Team Members
 
 - **Zouhair**: Specializes in JavaScript and Python.
-- **Friend**: Specializes in Java.
+- **Jasmine**: Specializes in Java.
 
 ## Technologies
 
@@ -49,8 +49,8 @@ We welcome contributions from fellow developers! If you would like to contribute
 
 If you have any questions, suggestions, or would like to collaborate, please feel free to reach out:
 
-- **Jasmine**: [Your Friend's LinkedIn](https://github.com/jasmineandres)
-- **Zouhair**: [Your LinkedIn](https://github.com/zuuhair11)
+- **Jasmine**: [LinkedIn](https://www.linkedin.com/in/jasmine-kim-andres/)
+- **Zouhair**: [LinkedIn](https://www.linkedin.com/in/zouhair-sahtout/)
 
 We appreciate your interest in our repository and look forward to connecting with you!
 
